@@ -1,4 +1,9 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8424289&assignment_repo_type=AssignmentRepo)
 # BPTree
 
-![](./docs/chart.gif)
+## About
+- Implemented a B+-Tree based indexing system for a given boiler plate CLI DBMS.
+- Coded the insert and delete logic for a B+-tree from scratch along with teammate Rohan as part of course(Database systems) project.
+
+## Installation and execution
+- Need to install CMake before running below script to execute CLI DBMS.
+- `mkdir build && cd build && cmake .. && make && ./BPTree`
